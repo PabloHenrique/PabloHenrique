@@ -3,7 +3,7 @@
 - 🍳 Busco oportunidade de emprego / estágio!
 - 💻 Foco de programação: Front-end
 - 📚 Linguangens principais: HTML, CSS, PHP, JAVA e SQL.
-- 🌱 Estou estudando no momento: JavaScript.
+- 🌱 Estou estudando no momento: JavaScript (Primeiros passos em React / Node.js)
 - 💬 Contate-me no email: pablohenriquenadai@gmail.com
 
 ##
