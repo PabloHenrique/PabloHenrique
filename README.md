@@ -4,7 +4,7 @@
 - 🍳 Busco oportunidade de emprego / estágio!
 - 💻 Foco de programação: Front-end
 - 📚 Linguangens principais: PHP, JAVA e SQL.
-- 📒 Framework: Bootstrap.
+- 📒 Frameworks: Bootstrap, Ionic.
 - 🌱 Estou estudando no momento: Javascript, PHP e Python
 - 💬 Contate-me no email: pablohenriquenadai@gmail.com
 
