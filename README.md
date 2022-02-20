@@ -3,7 +3,8 @@
 - 🔭 Técnico em Desenvolvimento de Sistemas.
 - 🍳 Busco oportunidade de emprego / estágio!
 - 💻 Foco de programação: Front-end
-- 📚 Linguangens principais: HTML, CSS, PHP, JAVA e SQL.
+- 📚 Linguangens principais: PHP, JAVA e SQL.
+- 📒 Framework: Bootstrap.
 - 🌱 Estou estudando no momento: Javascript, PHP e Python
 - 💬 Contate-me no email: pablohenriquenadai@gmail.com
 
