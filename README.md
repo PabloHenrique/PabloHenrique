@@ -1,7 +1,7 @@
 ### Oláa! Eu sou o Pablo Henrique 👋
 - 📕 Estudante universitário de Análise e Desenvolvimento de Sistemas.
 - 🔭 Técnico em Desenvolvimento de Sistemas.
-- 🍳 Busco oportunidade de emprego / estágio!
+- 🍳 Estágiario de Suporte Técnico na empresa Contabilivre!
 - 💻 Foco de programação: Front-end
 - 📚 Linguangens principais: PHP, JAVA e SQL.
 - 📒 Frameworks: Bootstrap, Ionic.
