@@ -1,12 +1,13 @@
-### Oláa! Eu sou o Pablo Henrique 👋
-- 📕 Estudante universitário de Análise e Desenvolvimento de Sistemas.
-- 🔭 Técnico em Desenvolvimento de Sistemas.
-- 🍳 Estágiario de Suporte Técnico na empresa Contabilivre!
-- 💻 Foco de programação: Front-end
-- 📚 Linguangens principais: PHP, JAVA e SQL.
+### Oláa! Eu sou o Pablo Henrique / I'm Pablo Henrique👋
+
+- 📕 University student of Systems Analysis and Development.
+- 🔭 Systems Development Technician.
+- 🍳 Technical Support Intern at Contabilivre!
+- 💻 Programming focus: Frontend
+- 📚 Main languages: PHP, JAVA and SQL.
 - 📒 Frameworks: Bootstrap, Ionic.
-- 🌱 Estou estudando no momento: Javascript, PHP e Python
-- 💬 Contate-me no email: pablohenriquenadai@gmail.com
+- 🌱 I'm studying at the moment: Javascript, PHP e Python
+- 💬 Contact me by email: pablohenriquenadai@gmail.com
 
 ##
 
