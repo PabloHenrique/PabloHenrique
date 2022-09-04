@@ -6,7 +6,7 @@
 - 💻 Programming focus: Frontend
 - 📚 Main languages: PHP, JAVA and SQL.
 - 📒 Frameworks: Bootstrap, Ionic.
-- 🌱 I'm studying at the moment: Javascript, PHP e Python
+- 🌱 I'm studying at the moment: PHP, Python and React
 - 💬 Contact me by email: pablohenriquenadai@gmail.com
 
 ##
