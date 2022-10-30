@@ -4,10 +4,12 @@
 - 🔭 Systems Development Technician.
 - 🍳 Technical Support Intern at Contabilivre!
 - 💻 Programming focus: Frontend
-- 📚 Main languages: PHP, JAVA and SQL.
-- 📒 Frameworks: Bootstrap, Ionic.
-- 🌱 I'm studying at the moment: PHP, Python and React
-- 💬 Contact me by email: pablohenriquenadai@gmail.com
+- 📚 Main languages: Python, Javascript, PHP and SQL.
+- 📒 Frameworks: Bootstrap, React.
+- 🌱 I'm studying at the moment: Django, Automation Python and React.
+- 💬 Contact me by email: pablohenriquenadai@gmail.com or pablo.nadai@fatec.sp.gov.br
+
+Let's code ▶️👨‍💻💙
 
 ##
 
