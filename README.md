@@ -1,30 +1,22 @@
-### Oláa! Eu sou o Pablo Henrique / I'm Pablo Henrique👋
+### Oláa! Eu sou/I'm Pablo Henrique 👋
 
-- 📕 University student of Systems Analysis and Development.
-- 🔭 Systems Development Technician.
-- 🍳 Technical Support Intern at Contabilivre!
-- 💻 Programming focus: Frontend
-- 📚 Main languages: Python, Javascript, PHP and SQL.
+- 📕 University student of Systems Analysis and Development: FATEC - Faculdade de Tecnologia [4/6]
+- 🔭 Systems Development Technician: ETEC - Escola Estadual Técnica [3/3]
+- 🍳 Technical Support Supervisor at Contabilivre!
+- 💻 Programming focus: Frontend, UX e UI Design
+- 📚 Main languages: Python, Javascript (Node), PHP and MySQL.
 - 📒 Frameworks: Bootstrap, React.
 - 🌱 I'm studying at the moment: Django, Automation Python and React.
 - 💬 Contact me by email: pablohenriquenadai@gmail.com or pablo.nadai@fatec.sp.gov.br
 
 Let's code ▶️👨‍💻💙
 
-##
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=PabloHenrique&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloHenrique&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-  <a href="https://github.com/PabloHenrique">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloHenrique&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloHenrique&layout=compact&langs_count=7&theme=dark"/>
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PabloHenrique&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
-##
-  
-<div>
-  <a href = "mailto:pablohenriquenadai@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/pablohenrique.nadai/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-
-  ![Snake animation](https://github.com/PabloHenrique/PabloHenrique/blob/output/github-contribution-grid-snake.svg)
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=PabloHenrique&icon=1&color=0)](https://visitcount.itsvg.in)
