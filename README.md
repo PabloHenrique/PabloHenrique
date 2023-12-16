@@ -7,7 +7,7 @@
 - 📚 Main languages: Python, Javascript (Node), PHP and MySQL.
 - 📒 Frameworks: Bootstrap, React.
 - 🌱 I'm studying at the moment: Django, Automation Python and React.
-- 💬 Contact me by email: pablohenriquenadai@gmail.com or pablo.nadai@fatec.sp.gov.br
+- 💬 Contact me by email: pablohenriquenadai@gmail.com
 
 Let's code ▶️👨‍💻💙
 
